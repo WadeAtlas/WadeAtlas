@@ -1,4 +1,4 @@
-![Wade Atlas Banner](./banner.png)
+![Wade Atlas Banner](https://github.com/WadeAtlas/WadeAtlas/blob/main/banner.png?raw=true)
 
 <div align="center">
 
